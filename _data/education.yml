@@ -3,9 +3,12 @@
   uni: Kharazmi University
   year: 2016 &mdash; 2020
   awards:
-    - award: Member of Computer Science Student Association
-    - Section Editor, Editor, Writer of Computer Science Association Publications
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    # - award: Member of Computer Science Student Association for 2 years
+    # - award: Section Edito and Writer in Computer Science Association Publications for 1 year
+    # - 
+    # - award: Data Mining Teaching Assistant
+  summary: Thesis: EEG Signals Classification on a Motor Imagery Task using Convolutional Neural Networks
+  summary: Supervisor: Dr. Mir Mohsen Pedram
 
 - degree: High School Diploma
   uni: Alborz High School
