@@ -1,6 +1,6 @@
 # Jobs
 # Part AI Research Center
-- company: Part AI Research Center
+- company: <a href="https://partdp.ai/en">Part AI Research Center</a>
   position: Machine Learning Engineer
   duration: April, 2022 &mdash; October 2022
   summary: As a member of the Computer Vision team, my role involved developing and maintaining deep learning models aimed at solving real-world problems. <ul class="resume-item-list"><li>Persian Scene Text Recognition For Credit Card Fields</li><li>Vehicle Specification Recognition (Plate, Make, Model, Color)</li><li>Traffic Sign Recognition</li><li>Multi-Object Tracking in Traffic Scene</li><li>Deep Learning Model Obfuscation</li><li><b>Technologies:</b> Python, OpenCV, Tensorflow, PyTorch, Git, Pandas, Numpy, Linux, ONNX, Scikit-Learn, Docker</li></ul>
