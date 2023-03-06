@@ -1,18 +1,18 @@
 # Jobs
-# Machine Learning Engineer
+# Part AI Research Center
 - company: Part AI Research Center
   position: Machine Learning Engineer
   duration: April, 2022 &mdash; October 2022
   summary: As a member of the Computer Vision team, my role involved developing and maintaining deep learning models aimed at solving real-world problems. <ul class="resume-item-list"><li>Persian Scene Text Recognition For Credit Card Fields</li><li>Vehicle Specification Recognition (Plate, Make, Model, Color)</li><li>Traffic Sign Recognition</li><li>Multi-Object Tracking in Traffic Scene</li><li>Deep Learning Model Obfuscation</li><li><b>Technologies:</b> Python, OpenCV, Tensorflow, PyTorch, Git, Pandas, Numpy, Linux, ONNX, Scikit-Learn, Docker</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration: Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Arezoupardaz
+- company: Arezoupardaz
+  position: Machine Learning Engineer
+  duration: May, 2021 &mdash; Sept, 2021
+  summary: <ul><li>Computer Vision, Image Processing, Scene Text Detection and Recognition</li><li><b>Technologies:</b> Python, Numpy, Pandas, OpenCV, Linux, PyTorch, Git</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration: Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Luminai
+- company: Luminai
+  position: Machine Learning Engineer, Co-Founder
+  duration: Jan, 2021  &mdash; April, 2022
+  summary: <ul><li>A startup that aims to bring artificial intelligence to education.</li><li>Data Analysis, Natural Language Processing, Topic Modeling</li><li><b>Technologies:</b> Python, Numpy, Tensorflow, Linux, Nginx, Docker, Git</li></ul>
