@@ -2,19 +2,19 @@
 - award: Deep Learning Spring School
   organization: Kharazmi University
   year: April 2019
-  url: "#"
+  # url: "#"
 
 - award: Iranian Brain-Computer Interface Competition
   organization: National Brain Mapping Laboratory
   year: Summer 2020
   summary: Awarded the second place.
-  url: "#"
+  # url: "#"
 
 - award: 
-  organization: Task-Oriented Course in Artificial Intelligence
+  organization: <a href="https://quera.ir/certificate/A9XUqa1j/">Task-Oriented Course in Artificial Intelligence</a>
   year: November 2020
   summary: Awarded the second place.
-  url: "https://quera.ir/certificate/A9XUqa1j/"
+  # url: "https://quera.ir/certificate/A9XUqa1j/"
 
 # - award: Most Likely To Succeed
 #   organization: Springfield High School
