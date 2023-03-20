@@ -176,7 +176,7 @@
       {% endif %}
 
       {% if site.resume_section_recognition %}
-      <!-- begin Recognition -->
+      <!-- begin Awards & Certificates -->
       <section class="content-section">
 
         <header class="section-header">
@@ -185,6 +185,7 @@
 
         {% for recognition in site.data.recognitions %}
         <div class="resume-item">
+          <h3><a href={{ recognition.url }} itemprop="url">{{ recognition.award }}</a></h3>
           <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
           <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
           <p class="resume-item-copy">{{ recognition.summary }}</p>
@@ -192,7 +193,7 @@
         {% endfor %}
 
       </section>
-      <!-- end Recognition -->
+      <!-- end Awards & Certificates -->
       {% endif %}
 
       {% if site.resume_section_associations %}
