@@ -196,7 +196,7 @@
       <!-- end Awards & Certificates -->
       {% endif %}
 
-      {% if site.resume_section_associations %}
+      {% if site.resume_section_volunteer %}
       <!-- begin Volunteer Activities -->
       <section class="content-section">
 
@@ -204,11 +204,11 @@
           <h2>Volunteer Activities</h2>
         </header>
 
-        {% for association in site.data.associations %}
+        {% for volunteer in site.data.volunteer %}
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>
-          <p class="resume-item-copy">{{ association.summary }}</p>
+          <h3 class="resume-item-title" itemprop="name">{% if volunteer.url %}<a href="{{ volunteer.url }}">{{ volunteer.organization }}</a>{% else %}{{ volunteer.organization }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ volunteer.role }} &bull; {{ volunteer.year }}</h4>
+          <p class="resume-item-copy">{{ volunteer.summary }}</p>
         </div>
         {% endfor %}
 
