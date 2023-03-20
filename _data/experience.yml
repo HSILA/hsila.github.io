@@ -1,4 +1,11 @@
 # Jobs
+
+# MahyarLab
+- company: MahyarLab
+  position: Research Assistant
+  duration: September 2020  &mdash; Present
+  summary: <b>Supervisor: Dr.Hamidreza Mahyar, Assistant Professor at McMaster University</b><ul><li>Shape Analysis and Contour Completion</li><li>3D 3D Object Classification using Graph Neural Networks</li></ul>
+
 # Part AI Research Center
 - company: <a href="https://partdp.ai/en">Part AI Research Center</a>
   position: Machine Learning Engineer
