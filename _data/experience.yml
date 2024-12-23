@@ -1,16 +1,16 @@
 # Jobs
 
-# MahyarLab
-# - company: MahyarLab
-#   position: Research Assistant
-#   duration: September 2020  &mdash; Present
-#   summary: <b>"Supervisor: Dr.Hamidreza Mahyar, Assistant Professor at McMaster University"</b><ul><li>Shape Analysis and Contour Completion</li><li>3D 3D Object Classification using Graph Neural Networks</li></ul>
+# BASF
+- company: <a href="https://www.basf.com/ca/en">BASF Canada</a>
+  position: Applied Research Intern
+  duration: September, 2023 &mdash; Present
+  summary: Collaborated with the AI Innovation team to leverage state-of-the-art NLP techniques and large language models (LLMs), driving innovative solutions for domain adaptation and optimizing retrieval-augmented generation (RAG) systems in the field of chemistry. <ul class="resume-item-list"><li>Natural Language Processing, Contrastive Learning, Retrieval-Augmented Generation, Data Curation & Preprocessing, Data Synthesis w/ LLMs, Language Model Training</li><li><b>Technologies:</b> Python, PyTorch, HuggingFace Libraries, Git, Pandas, Numpy, Linux, LlamaIndex, LangChain, DeepSpeed, Amazon Ecosystem, FlashAttention</li></ul>
 
 # Part AI Research Center
 - company: <a href="https://partdp.ai/en">Part AI Research Center</a>
   position: Machine Learning Engineer
   duration: April, 2022 &mdash; October 2022
-  summary: As a member of the Computer Vision team, my role involved developing and maintaining deep learning models aimed at solving real-world problems. <ul class="resume-item-list"><li>Computer Vision, Image Processing, Scene Text Recognition, Object Detection, Multiple Object Tracking</li><li><b>Technologies:</b> Python, OpenCV, Tensorflow, PyTorch, Git, Pandas, Numpy, Linux, ONNX, Scikit-Learn, Docker</li></ul>
+  summary: As a member of the Computer Vision team, my role involved developing and maintaining deep learning models aimed at solving real-world problems. <ul class="resume-item-list"><li>Computer Vision, Image Processing, Scene Text Recognition, Object Detection, Multiple Object Tracking, Object Segmentation</li><li><b>Technologies:</b> Python, OpenCV, Tensorflow, PyTorch, Git, Pandas, Numpy, Linux, ONNX, Scikit-Learn, Docker</li></ul>
 
 # Arezoupardaz
 - company: Arezoupardaz

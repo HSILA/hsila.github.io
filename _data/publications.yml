@@ -1,6 +1,9 @@
 # Publications
-- url: "https://arxiv.org/abs/2302.04447"
-  description: Contour Completion using Deep Structural Priors
+- description: "ChemTEB: Chemical Text Embedding Benchmark, an Overview of Embedding Models Performance & Efficiency on a Specific Domain"
+  url: "https://arxiv.org/abs/2412.00532"
 
 - description: "MLGCN: An Ultra Efficient Graph Convolution Neural Model for 3D Point Cloud Analysis"
-  url: '#'
+  url: 'https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1439340/full'
+
+- description: Contour Completion using Deep Structural Priors
+  url: "https://arxiv.org/abs/2302.04447"
